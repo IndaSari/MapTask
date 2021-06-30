@@ -56,7 +56,7 @@
     "eject": "react-scripts eject",
     "prettier": "prettier --write '**/*.{tsx,ts,jsx,js,json}'"
   },
-  "proxy": "http://localhost:5000/",
+  "proxy": "https://qa-interview-test.splytech.dev",
   "eslintConfig": {
     "extends": "react-app"
   },
